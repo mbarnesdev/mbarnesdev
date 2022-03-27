@@ -8,8 +8,10 @@
   
 🌱 I’m currently learning ...
   - React
-  - Laravel
-  - Wordpress CMS integration
+  - Express
+  - Fastify
+  - Electron
+  - Sequelize
   
 📫 How to reach me ...
   - martinbarnes.dev@gmail.com
