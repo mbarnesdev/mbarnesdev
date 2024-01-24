@@ -23,9 +23,7 @@
 <hr>
 
 <p align="center">
-    <i>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.</i>
-    <br />
-    <i>Lorem ipsum dolor sit amet.<i>
+    <i>Connect with me on the following platforms.<i>
     <br />
     <br />
         <a target="_blank" href="mailto:martinbarnes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
