@@ -7,7 +7,7 @@
 
 <hr>
     
-    <!-- Frontend -->
+<!-- Frontend -->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,nextjs,svelte,astro" />
 </p>
