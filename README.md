@@ -29,7 +29,6 @@
 <p align="center">
     <i>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.</i>
     <br />
-    <br />
     <i>Lorem ipsum dolor sit amet.<i>
     <br />
     <br />
