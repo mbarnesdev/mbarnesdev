@@ -1,3 +1,24 @@
+<!-- Frontend -->
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,nextjs,svelte,astro" />
+  </a>
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express,nestjs,mysql,sqlite,mongodb" />
+  </a>
+</p>
+
+<!-- Tools -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,bash,vim,neovim,regex" />
+  </a>
+</p>
+
 <hr>
 <p align="center">
     <i>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.</i>
@@ -11,3 +32,4 @@
         <a target="_blank" href="https://www.linkedin.com/in/martin-barnes-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
     <br />
 </p>
+
